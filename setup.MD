@@ -4,7 +4,7 @@
 
 1.	Install Astra CLI from the [link](https://docs.datastax.com/en/astra-cli/0.2/installation.html)
 
-2.	Log in to AstraDB, go to the Tokens tab on the left of the screen, and from there select the Tokens tab again to Generate a Token in the Organization Administrator role. This step is for Source Database
+2.	Log in to AstraDB, go to the Tokens tab on the left of the screen, select the Tokens tab again, generate a token in the Organization Administrator role, and save. This step is for the source database.
 
     **Example:**
     ```
